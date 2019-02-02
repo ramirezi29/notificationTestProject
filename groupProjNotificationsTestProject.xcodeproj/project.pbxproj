@@ -18,7 +18,7 @@
 		47308E5821AFB0400055106E /* StepViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47308E5721AFB0400055106E /* StepViewController.swift */; };
 		47BFE17C21B0587F004A09DE /* TestStepViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47BFE17B21B0587F004A09DE /* TestStepViewController.swift */; };
 		47BFE17E21B059DD004A09DE /* NCTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47BFE17D21B059DD004A09DE /* NCTest.swift */; };
-		47BFE18121B05D5C004A09DE /* TimerManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47BFE18021B05D5C004A09DE /* TimerManager.swift */; };
+		47BFE18121B05D5C004A09DE /* TimerControllerManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47BFE18021B05D5C004A09DE /* TimerControllerManager.swift */; };
 		47BFE18321B06188004A09DE /* UI+AlertController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47BFE18221B06188004A09DE /* UI+AlertController.swift */; };
 /* End PBXBuildFile section */
 
@@ -37,7 +37,7 @@
 		47308E5721AFB0400055106E /* StepViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepViewController.swift; sourceTree = "<group>"; };
 		47BFE17B21B0587F004A09DE /* TestStepViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestStepViewController.swift; sourceTree = "<group>"; };
 		47BFE17D21B059DD004A09DE /* NCTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NCTest.swift; sourceTree = "<group>"; };
-		47BFE18021B05D5C004A09DE /* TimerManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerManager.swift; sourceTree = "<group>"; };
+		47BFE18021B05D5C004A09DE /* TimerControllerManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerControllerManager.swift; sourceTree = "<group>"; };
 		47BFE18221B06188004A09DE /* UI+AlertController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UI+AlertController.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -96,7 +96,7 @@
 			isa = PBXGroup;
 			children = (
 				4704643A21AFA0CD00BC23ED /* AppDelegate.swift */,
-				47BFE18021B05D5C004A09DE /* TimerManager.swift */,
+				47BFE18021B05D5C004A09DE /* TimerControllerManager.swift */,
 				47BFE18221B06188004A09DE /* UI+AlertController.swift */,
 			);
 			path = SupportingFiles;
@@ -237,7 +237,7 @@
 				47308E5821AFB0400055106E /* StepViewController.swift in Sources */,
 				47308E4D21AFA7CB0055106E /* StepController.swift in Sources */,
 				47BFE18321B06188004A09DE /* UI+AlertController.swift in Sources */,
-				47BFE18121B05D5C004A09DE /* TimerManager.swift in Sources */,
+				47BFE18121B05D5C004A09DE /* TimerControllerManager.swift in Sources */,
 				47308E5321AFAF830055106E /* StepTableViewCell.swift in Sources */,
 				47308E4F21AFA7FC0055106E /* StepTableViewController.swift in Sources */,
 			);
